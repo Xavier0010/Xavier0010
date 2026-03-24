@@ -1,5 +1,12 @@
 # 👋 Hi! Welcome to my GitHub Profile
-## I'm Amadeus Xavier Enoch — you can call me Xavier.<br><br>I'm a Grade 11 student at SMK Telkom Sidoarjo — Class of 2028 (7th Generation)<br><br>A Data & AI enthusiast that currently focused on:<br>📊 Data Science & Analytics<br>🤖 Machine Learning<br>⚙️ MLOps
+I'm Amadeus Xavier Enoch — you can call me Xavier.<br><br>
+
+I'm a Grade 11 student at SMK Telkom Sidoarjo — Class of 2028 (7th Generation)
+
+A Data & AI enthusiast that currently focused on:
+### 📊 Data Science & Analytics
+### 🤖 Machine Learning
+### ⚙️ MLOps
 
 
 ## 🌐 Socials:
