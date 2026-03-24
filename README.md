@@ -4,10 +4,11 @@
 ## ✨About Me
 I'm Amadeus Xavier Enoch — you can call me Xavier.<br>
 I'm a Grade 11 student at SMK Telkom Sidoarjo — Class of 2028 (7th Generation)<br>
-A Data & AI enthusiast that currently focused on:
-### 📊 Data Science & Analytics
-### 🤖 Machine Learning
-### ⚙️ MLOps
+
+A Data & AI enthusiast that currently focused on:<br>
+<b>📊 Data Science & Analytics<b><br>
+<b>🤖 Machine Learning<b><br>
+<b>⚙️ MLOps<b>
 
 <br>
 
