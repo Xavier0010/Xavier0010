@@ -1,24 +1,48 @@
-# 👋 Hi! Welcome to my GitHub Profile
-I'm Amadeus Xavier Enoch — you can call me Xavier.<br><br>
+<h1 align="center">👋 Hello! Welcome to My GitHub Profile </h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xavier0010&label=Profile%20views&color=0e75b6&style=flat" alt="xavier0010" /> </p>
 
-I'm a Grade 11 student at SMK Telkom Sidoarjo — Class of 2028 (7th Generation)
-
+## ✨About Me
+I'm Amadeus Xavier Enoch — you can call me Xavier.<br>
+I'm a Grade 11 student at SMK Telkom Sidoarjo — Class of 2028 (7th Generation)<br>
 A Data & AI enthusiast that currently focused on:
 ### 📊 Data Science & Analytics
 ### 🤖 Machine Learning
 ### ⚙️ MLOps
 
+<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_xavv.e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amadeusxavierenoch/) 
+## 🌐 Socials
+<p align="left">
+<a href="https://linkedin.com/in/amadeusxavierenoch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amadeusxavierenoch" height="30" width="40" /></a>
+&nbsp;
+<a href="https://instagram.com/_xavv.e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_xavv.e" height="30" width="40" /></a>
+&nbsp;
+<a href="https://kaggle.com/xurf123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="xurf123" height="30" width="40" /></a>
+&nbsp;
+</p>
 
-# 💻 Tech Stack:
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Xavier0010&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier0010&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+## 💻 Tech Stack
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="50"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/</a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xavier0010&show_icons=true&locale=en" height="150" style="margin: 10px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xavier0010" height="150" style="margin: 10px;"/>
+</p>
