@@ -27,12 +27,16 @@ A Data & AI enthusiast that currently focused on:<br>
 ## 💻 Tech Stack
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/></a>
+&nbsp;&nbsp;
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/></a>
+&nbsp;&nbsp;
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="50"/></a>
+&nbsp;&nbsp;
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50"/></a>
+&nbsp;&nbsp;
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50"/></a>
-&nbsp;
-<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/</a>
+&nbsp;&nbsp;
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/></a>
 </p>
 
 <br>
