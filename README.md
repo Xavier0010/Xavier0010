@@ -13,17 +13,17 @@ A Data & AI enthusiast that currently focused on:<br>
 <br>
 
 ## 🌐 Socials
-<div align="left">
-  <a href="https://linkedin.com/in/amadeusxavierenoch" target="_blank" style="display:inline-block;">
+<p align="left">
+  <a href="https://linkedin.com/in/amadeusxavierenoch" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-  <a href="https://instagram.com/_xavv.e" target="_blank" style="display:inline-block;">
+  <a href="https://instagram.com/_xavv.e" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
-  <a href="https://kaggle.com/xurf123" target="_blank" style="display:inline-block;">
+  <a href="https://kaggle.com/xurf123" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/>
   </a>
-</div>
+</p>
 
 <br>
 
