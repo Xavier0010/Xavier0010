@@ -28,3 +28,9 @@ A Data & AI enthusiast that currently focused on:<br>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xavier0010" height="150" style="margin: 10px;"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xavier0010/Xavier0010/output/github-contribution-grid-snake-dark.svg">
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xavier0010/Xavier0010/output/github-contribution-grid-snake.svg"> -->
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xavier0010/Xavier0010/output/github-contribution-grid-snake.svg">
+</picture>
